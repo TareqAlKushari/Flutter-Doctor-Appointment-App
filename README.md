@@ -1,4 +1,4 @@
-# doctor_appointment_app
+# Flutter Doctor Appointment App
 
 A new Flutter project.
 
