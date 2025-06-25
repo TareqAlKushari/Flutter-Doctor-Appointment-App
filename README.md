@@ -97,9 +97,9 @@ The project demonstrates best practices in Flutter development, including modula
 - **Test:** `flutter test`
 - **Lint:** `flutter analyze`
 
-## License
+## License 📜
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contributing 🤝
 
@@ -113,4 +113,8 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 - [Easy Localization](https://pub.dev/packages/easy_localization)
 - [Firebase](https://firebase.flutter.dev/)
 
----
+## Author 🙋‍♂️
+
+**Tareq Al-Kushari**   [GitHub](https://github.com/TareqAlKushari) • [LinkedIn](https://www.linkedin.com/) • [Facebook](https://www.facebook.com/profile.php?id=61562736475116&mibextid=ZbWKwL) • [Instagram](https://www.instagram.com/tareq.al.kushari?igsh=MTBhZjRuYnFoMWw1YQ==) • [X](https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09) • [Email](mailto:tareq.al.kushari@gmail.com) • [Portfolio Website](#)
+
+> If you found this helpful, don't forget to **star** the repo and share it with others! ⭐
