@@ -19,17 +19,18 @@ The project demonstrates best practices in Flutter development, including modula
 - **Dependency injection with GetIt**
 - **Ready for Android, iOS, Web, macOS, Linux**
 
+## Screenshots 📸
 
 | Splash                               | On Boarding                                | Home                                       | Booking                                    |
 | ------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
-| ![Splash](assets/images/splash.png)  | ![](assets/Screenshot_20250624_133525.png) | ![](assets/Screenshot_20250624_133525.png) | ![](assets/Screenshot_20250624_133525.png) |
+| ![Splash](assets/images/splash.png)  | ![](assets/Screenshot_20250624_133525.png) | ![](assets/profile.png)                    | ![](assets/booking.png)                    |
 
 | Home                                 | Doctor List                                | Profile                                    | Booking                                    |
 | ------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
 | ![Home](assets/screenshots/home.png) | ![Doctors](assets/screenshots/doctors.png) | ![Profile](assets/screenshots/profile.png) | ![Booking](assets/screenshots/booking.png) |
 
 
-## Tech Stack
+## Tech Stack 📦
 
 - **Flutter** (Dart 3.8+)
 - **State Management:** flutter_bloc, freezed
@@ -40,7 +41,7 @@ The project demonstrates best practices in Flutter development, including modula
 - **UI:** shimmer, shimmer_animation, flutter_svg, flutter_screenutil
 - **Firebase:** firebase_core
 
-## Getting Started
+## Getting Started 🚀
 
 ### Prerequisites
 
@@ -77,7 +78,7 @@ The project demonstrates best practices in Flutter development, including modula
    flutter run
    ```
 
-### Project Structure
+### Project Structure 🧾
 
 - `lib/main.dart` — App entry point
 - `lib/doc_app.dart` — Main app widget and routing
@@ -100,7 +101,7 @@ The project demonstrates best practices in Flutter development, including modula
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
-## Contributing
+## Contributing 🤝
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
