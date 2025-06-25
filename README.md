@@ -4,13 +4,9 @@ A modern, full-featured **Doctor Appointment Booking App** built with Flutter. T
 
 The project demonstrates best practices in Flutter development, including modular architecture, state management with BLoC and Cubit, REST API integration with Dio and Retrofit, dependency injection using GetIt, and support for localization and theming. With persistent storage, real-time updates, and rich UI elements such as shimmer effects and SVG graphics, the app delivers a seamless user experience across Android, iOS, and web platforms.
 
-
 ![Banner](https://raw.githubusercontent.com/TareqAlKushari/Flutter-Doctor-Appointment-App/main/assets/images/banner.png)
 
----
-
-
-## Features
+## Features 📱
 
 - **Book appointments with doctors**
 - **User authentication and secure storage**
@@ -22,6 +18,16 @@ The project demonstrates best practices in Flutter development, including modula
 - **REST API integration using Dio & Retrofit**
 - **Dependency injection with GetIt**
 - **Ready for Android, iOS, Web, macOS, Linux**
+
+
+| Splash                               | On Boarding                                | Home                                       | Booking                                    |
+| ------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
+| ![Splash](assets/images/splash.png)  | ![](assets/Screenshot_20250624_133525.png) | ![Profile](assets/screenshots/profile.png) | ![Booking](assets/screenshots/booking.png) |
+
+| Home                                 | Doctor List                                | Profile                                    | Booking                                    |
+| ------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
+| ![Home](assets/screenshots/home.png) | ![Doctors](assets/screenshots/doctors.png) | ![Profile](assets/screenshots/profile.png) | ![Booking](assets/screenshots/booking.png) |
+
 
 ## Tech Stack
 
