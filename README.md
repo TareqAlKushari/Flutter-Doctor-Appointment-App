@@ -6,9 +6,9 @@ The project demonstrates best practices in Flutter development, including modula
 
 ## 📸 Screenshots
 
-| Splash                               | On Boarding                                | Home                                       | Booking                                    |
+| Splash                               | On Boarding                                | Login                                      | Booking                                    |
 | ------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
-| ![Splash](assets/images/splash.png)  | ![OnBoarding](assets/Screenshot_1.png)     | ![Profile](assets/profile.png)             | ![Booking](assets/booking.png)             |
+| ![Splash](assets/images/splash.png)  | ![OnBoarding](assets/Screenshot_1.png)     | ![Login](assets/Screenshot_2.png)          | ![Booking](assets/booking.png)             |
 
 | Home                                 | Doctor List                                | Profile                                    | Booking                                    |
 | ------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
