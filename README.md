@@ -4,7 +4,15 @@ A modern, full-featured **Doctor Appointment Booking App** built with Flutter. T
 
 The project demonstrates best practices in Flutter development, including modular architecture, state management with BLoC and Cubit, REST API integration with Dio and Retrofit, dependency injection using GetIt, and support for localization and theming. With persistent storage, real-time updates, and rich UI elements such as shimmer effects and SVG graphics, the app delivers a seamless user experience across Android, iOS, and web platforms.
 
-![Banner](assets/banner.png)
+## 📸 Screenshots
+
+| Splash                               | On Boarding                                | Home                                       | Booking                                    |
+| ------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
+| ![Splash](assets/images/splash.png)  | ![OnBoarding](assets/Screenshot_1.png)     | ![Profile](assets/profile.png)             | ![Booking](assets/booking.png)             |
+
+| Home                                 | Doctor List                                | Profile                                    | Booking                                    |
+| ------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
+| ![Home](assets/screenshots/home.png) | ![Doctors](assets/screenshots/doctors.png) | ![Profile](assets/screenshots/profile.png) | ![Booking](assets/screenshots/booking.png) |
 
 ## 📱 Features
 
@@ -18,17 +26,6 @@ The project demonstrates best practices in Flutter development, including modula
 - **REST API integration using Dio & Retrofit**
 - **Dependency injection with GetIt**
 - **Ready for Android, iOS, Web, macOS, Linux**
-
-## 📸 Screenshots
-
-| Splash                               | On Boarding                                | Home                                       | Booking                                    |
-| ------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
-| ![Splash](assets/images/splash.png)  | ![](assets/Screenshot_1.png) | ![](assets/profile.png)                    | ![](assets/booking.png)                    |
-
-| Home                                 | Doctor List                                | Profile                                    | Booking                                    |
-| ------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
-| ![Home](assets/screenshots/home.png) | ![Doctors](assets/screenshots/doctors.png) | ![Profile](assets/screenshots/profile.png) | ![Booking](assets/screenshots/booking.png) |
-
 
 ## 📦 Tech Stack
 
