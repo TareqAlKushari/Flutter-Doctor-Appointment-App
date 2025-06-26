@@ -4,9 +4,17 @@ A modern, full-featured **Doctor Appointment Booking App** built with Flutter. T
 
 The project demonstrates best practices in Flutter development, including modular architecture, state management with BLoC and Cubit, REST API integration with Dio and Retrofit, dependency injection using GetIt, and support for localization and theming. With persistent storage, real-time updates, and rich UI elements such as shimmer effects and SVG graphics, the app delivers a seamless user experience across Android, iOS, and web platforms.
 
-![Banner](https://raw.githubusercontent.com/TareqAlKushari/Flutter-Doctor-Appointment-App/main/assets/images/banner.png)
+## 📸 Screenshots
 
-## Features 📱
+| Splash                               | On Boarding                                | Home                                       | Booking                                    |
+| ------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
+| ![Splash](assets/images/splash.png)  | ![OnBoarding](assets/Screenshot_1.png)     | ![Profile](assets/profile.png)             | ![Booking](assets/booking.png)             |
+
+| Home                                 | Doctor List                                | Profile                                    | Booking                                    |
+| ------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
+| ![Home](assets/screenshots/home.png) | ![Doctors](assets/screenshots/doctors.png) | ![Profile](assets/screenshots/profile.png) | ![Booking](assets/screenshots/booking.png) |
+
+## 📱 Features
 
 - **Book appointments with doctors**
 - **User authentication and secure storage**
@@ -19,18 +27,7 @@ The project demonstrates best practices in Flutter development, including modula
 - **Dependency injection with GetIt**
 - **Ready for Android, iOS, Web, macOS, Linux**
 
-## Screenshots 📸
-
-| Splash                               | On Boarding                                | Home                                       | Booking                                    |
-| ------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
-| ![Splash](assets/images/splash.png)  | ![](assets/Screenshot_20250624_133525.png) | ![](assets/profile.png)                    | ![](assets/booking.png)                    |
-
-| Home                                 | Doctor List                                | Profile                                    | Booking                                    |
-| ------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
-| ![Home](assets/screenshots/home.png) | ![Doctors](assets/screenshots/doctors.png) | ![Profile](assets/screenshots/profile.png) | ![Booking](assets/screenshots/booking.png) |
-
-
-## Tech Stack 📦
+## 📦 Tech Stack
 
 - **Flutter** (Dart 3.8+)
 - **State Management:** flutter_bloc, freezed
@@ -41,7 +38,7 @@ The project demonstrates best practices in Flutter development, including modula
 - **UI:** shimmer, shimmer_animation, flutter_svg, flutter_screenutil
 - **Firebase:** firebase_core
 
-## Getting Started 🚀
+## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -78,7 +75,7 @@ The project demonstrates best practices in Flutter development, including modula
    flutter run
    ```
 
-### Project Structure 🧾
+### 🧾 Project Structure
 
 - `lib/main.dart` — App entry point
 - `lib/doc_app.dart` — Main app widget and routing
@@ -97,14 +94,6 @@ The project demonstrates best practices in Flutter development, including modula
 - **Test:** `flutter test`
 - **Lint:** `flutter analyze`
 
-## License 📜
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-## Contributing 🤝
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
 ## Acknowledgements
 
 - [Flutter](https://flutter.dev/)
@@ -113,7 +102,15 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 - [Easy Localization](https://pub.dev/packages/easy_localization)
 - [Firebase](https://firebase.flutter.dev/)
 
-## Author 🙋‍♂️
+## 🤝 Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+## 🙋‍♂️ Author
 
 **Tareq Al-Kushari**   [GitHub](https://github.com/TareqAlKushari) • [LinkedIn](https://www.linkedin.com/) • [Facebook](https://www.facebook.com/profile.php?id=61562736475116&mibextid=ZbWKwL) • [Instagram](https://www.instagram.com/tareq.al.kushari?igsh=MTBhZjRuYnFoMWw1YQ==) • [X](https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09) • [Email](mailto:tareq.al.kushari@gmail.com) • [Portfolio Website](#)
 
