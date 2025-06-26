@@ -4,8 +4,6 @@ A modern, full-featured **Doctor Appointment Booking App** built with Flutter. T
 
 The project demonstrates best practices in Flutter development, including modular architecture, state management with BLoC and Cubit, REST API integration with Dio and Retrofit, dependency injection using GetIt, and support for localization and theming. With persistent storage, real-time updates, and rich UI elements such as shimmer effects and SVG graphics, the app delivers a seamless user experience across Android, iOS, and web platforms.
 
-![Banner](assets/banner.png)
-
 ## 📱 Features
 
 - **Book appointments with doctors**
